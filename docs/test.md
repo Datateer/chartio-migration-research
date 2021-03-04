@@ -5,7 +5,7 @@
 
 <script>
 $().ready(function(){
-    $.getJSON( "/data.json", function( data ) {
+    $.getJSON( "/sample-data.json", function( data ) {
     console.log(data);
     $("#text").html(data["text"]);
   });
