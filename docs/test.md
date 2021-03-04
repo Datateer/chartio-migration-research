@@ -4,8 +4,11 @@
 <div id="text"></div>
 
 <script>
-$().ready(function() {
-   $("#text").html("Text added by jQuery code.");
+$().ready(function(){
+    $.getJSON( "/data.json", function( data ) {
+    console.log(data);
+    $("#text").html(data["text"]);
+  });
 });
 </script>
  
