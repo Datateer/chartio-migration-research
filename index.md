@@ -72,6 +72,8 @@ We will review contributions and approve as long as they follow the guidelines
 
 Fork and edit this repository to edit any content directly, then
 
-## License and Copyright
+#### Legal Stuff
 
-Copyright Datateer 2021. You are allowed to link to and share any content from this repository, as long as you provide attribution and a link either to this site (https://datateer.github.com)
+Copyright Datateer 2021. You are allowed to link to and share any content from this repository, as long as you provide attribution and a link either to this site (https://datateer.github.io/chartio-migration-research/) or to Datateer (https://www.datateer.com).
+
+Any content you provide remains your property, and you agree to us using it and displaying it for the purposes of this site.
