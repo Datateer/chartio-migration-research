@@ -1,4 +1,4 @@
-# Chartio Migration Research 👋🚚 ![Datateer](/chartio-migration-research/assets/datateer-logo.png | width=32px)
+# Chartio Migration Research 👋🚚
 
 This is all of our research to help you find a Chartio replacement. Brought to you by [Datateer](https://www.datateer.com) and the rest of the Chartio community!
 
