@@ -3,8 +3,8 @@
 This is all of our research to help you find a Chartio replacement. Brought to you by [Datateer](https://www.datateer.com) and the rest of the Chartio community!
 
 <p float="left">
-  <a href="https://www.datateer.com"><img src="/assets/chartio-logo.png" width="300" /></a>
-  <img src="/assets/datateer-logo.png" width="200" style="padding-left: 50px;" /> 
+  <a href="https://www.datateer.com"><img src="/chartio-migration-guide/assets/chartio-logo.png" width="300" /></a>
+  <img src="/chartio-migration-guide/assets/datateer-logo.png" width="200" style="padding-left: 50px;" /> 
 </p>
 
 ## TOC
