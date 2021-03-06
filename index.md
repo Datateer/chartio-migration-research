@@ -2,6 +2,8 @@
 
 This is all of our research to help you find a Chartio replacement. With 💖 from [Datateer](https://www.datateer.com) and the rest of the Chartio community!
 
+Live discussion in the [Chartio slack #migration channel](https://chartio.slack.com/archives/C01QEQ5MNEL)
+
 <p float="left">
   <a href="https://www.datateer.com"><img src="/chartio-migration-research/assets/chartio-logo.png" width="300" /></a>
   <img src="/chartio-migration-research/assets/datateer-logo.png" width="150" style="padding-left: 50px;" /> 
