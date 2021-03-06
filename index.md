@@ -16,7 +16,7 @@ This is all of our research to help you find a Chartio replacement. With 💖 fr
 
 <a name="summary" />
 ## Summary analysis
-[Apples-to-apples comparison](/summary.md)
+[Apples-to-apples comparison](summary.md)
 
 ### Methodology
 
@@ -30,25 +30,25 @@ Given the variety of clients we serve, we hope this is reasonably representative
 <a name="detailed" />
 ## Detailed analysis and experiences
 Learn from others' experience and opinions! Below are the 
-- [Apache Superset/Preset](/detailed/superset.md)
-- [Cumul.io](/detailed/cumulio.md)
-- [Dash](/detailed/dash.md)
-- [Exago](/detailed/exago.md)
-- [GoodData](/detailed/gooddata.md)
-- [Holistics](/detailed/holistics.md)
-- [Keen](/detailed/keen.md)
-- [Logi Analytics](/detailed/logi.md)
-- [Looker](/detailed/looker.md)
-- [Metabase](/detailed/metabase.md)
-- [Mode](/detailed/mode.md)
-- [Observable](/detailed/observable.md)
-- [Power BI](/detailed/pbi.md)
+- [Apache Superset/Preset](detailed/superset.md)
+- [Cumul.io](detailed/cumulio.md)
+- [Dash](detailed/dash.md)
+- [Exago](detailed/exago.md)
+- [GoodData](detailed/gooddata.md)
+- [Holistics](detailed/holistics.md)
+- [Keen](detailed/keen.md)
+- [Logi Analytics](detailed/logi.md)
+- [Looker](detailed/looker.md)
+- [Metabase](detailed/metabase.md)
+- [Mode](detailed/mode.md)
+- [Observable](detailed/observable.md)
+- [Power BI](detailed/pbi.md)
 - Powerpoint 🤣🤣
-- [QuickSight](/detailed/quicksight.md)
-- [Redash](/detailed/redash.md)
-- [Sigma](/detailed/sigma.md)
-- [Sisense](/detailed/sisense.md)
-- [Tableau](/detailed/tableau.md)
+- [QuickSight](detailed/quicksight.md)
+- [Redash](detailed/redash.md)
+- [Sigma](detailed/sigma.md)
+- [Sisense](detailed/sisense.md)
+- [Tableau](detailed/tableau.md)
 
 <a name="migration guides" />
 ## Migration guides
