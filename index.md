@@ -1,10 +1,10 @@
 # Chartio Migration Research 👋🚚
 
-This is all of our research to help you find a Chartio replacement. Brought to you by [Datateer](https://www.datateer.com) and the rest of the Chartio community!
+This is all of our research to help you find a Chartio replacement. With 💖 from [Datateer](https://www.datateer.com) and the rest of the Chartio community!
 
 <p float="left">
   <a href="https://www.datateer.com"><img src="/chartio-migration-research/assets/chartio-logo.png" width="300" /></a>
-  <img src="/chartio-migration-research/assets/datateer-logo.png" width="200" style="padding-left: 50px;" /> 
+  <img src="/chartio-migration-research/assets/datateer-logo.png" width="150" style="padding-left: 50px;" /> 
 </p>
 
 ## TOC
@@ -27,15 +27,11 @@ This research started from Datateer's evaluation matrix of BI products and tools
 
 Given the variety of clients we serve, we hope this is reasonably representative of your needs as well!
 
-<a name="picker">
-## Feature Picker
-Build your own short list! Pick the key features you need and see who comes out on top.
-
-Access the [feature picker here](/feature-picker.md).
-
 <a name="detailed" />
 ## Detailed analysis and experiences
 Learn from others' experience and opinions! Below are the 
+- [Apache Superset/Preset](/detailed/superset.md)
+- [Cumul.io](/detailed/cumulio.md)
 - [Dash](/detailed/dash.md)
 - [Exago](/detailed/exago.md)
 - [GoodData](/detailed/gooddata.md)
@@ -46,7 +42,6 @@ Learn from others' experience and opinions! Below are the
 - [Metabase](/detailed/metabase.md)
 - [Mode](/detailed/mode.md)
 - [Observable](/detailed/observable.md)
-- [Preset/Superset](/detailed/superset.md)
 - [Power BI](/detailed/pbi.md)
 - Powerpoint 🤣🤣
 - [QuickSight](/detailed/quicksight.md)
@@ -57,6 +52,8 @@ Learn from others' experience and opinions! Below are the
 
 <a name="migration guides" />
 ## Migration guides
+- [Cumul.io](https://blog.cumul.io/2021/03/04/migration-guide-how-to-migrate-from-chartio-to-cumul-io/)
+- [Count](https://count.co/blog/posts/how-to-migrate-from-chartio-to-count)
 
 <a name="contributing" />
 ## Contributing
