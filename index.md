@@ -9,10 +9,10 @@ This is all of our research to help you find a Chartio replacement. With 💖 fr
 
 ## TOC
 
-[Summary analysis](#summary)  
-[Detailed analysis and experiences](#detailed)  
-[Migration guides](#migration)
-[Contributing](#contributing)
+- [Summary analysis](#summary)
+- [Detailed analysis and experiences](#detailed)
+- [Migration guides](#migration)
+- [Contributing](#contributing)
 
 <a name="summary" />
 ## Summary analysis
