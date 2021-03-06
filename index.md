@@ -54,7 +54,7 @@ Learn from others' experience and opinions! Below are the
 - [Sisense](detailed/sisense.md)
 - [Tableau](detailed/tableau.md)
 
-<a name="migration guides" />
+<a name="migration" />
 ## Migration guides
 - [Cumul.io](https://blog.cumul.io/2021/03/04/migration-guide-how-to-migrate-from-chartio-to-cumul-io/)
 - [Count](https://count.co/blog/posts/how-to-migrate-from-chartio-to-count)
