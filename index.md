@@ -2,20 +2,21 @@
 
 This is all of our research to help you find a Chartio replacement. With 💖 from [Datateer](https://www.datateer.com) and the rest of the Chartio community!
 
+### 🆕New! Migration estimation template
+
+[Free google sheet](https://docs.google.com/spreadsheets/d/1GYOG3qIqzyPhbIynE88frDRJPh58reUwQ8L9FheJZ7g/edit#gid=679753481) to estimate migration projects. Please share!
+
 <p float="left">
   <a href="https://www.datateer.com"><img src="/chartio-migration-research/assets/chartio-logo.png" width="300" /></a>
   <img src="/chartio-migration-research/assets/datateer-logo.png" width="150" style="padding-left: 50px;" /> 
 </p>
-
-Live discussion in the [Chartio slack #migration channel](https://chartio.slack.com/archives/C01QEQ5MNEL)
-
-[Generic list of BI tools](https://github.com/thenaturalist/awesome-business-intelligence)
 
 ## TOC
 
 - [Summary analysis](#summary)
 - [Detailed analysis and experiences](#detailed)
 - [Migration guides](#migration)
+- [Resources](#resources)
 - [Contributing](#contributing)
 
 <a name="summary" />
@@ -46,8 +47,11 @@ Learn from others' experience and opinions! Below are the
 - [Metabase](detailed/metabase.md)
 - [Mode](detailed/mode.md)
 - [Observable](detailed/observable.md)
+- [Panintelligence](detailed/panintelligence.md)
 - [Power BI](detailed/pbi.md)
 - Powerpoint 🤣🤣
+- [Qlik](detailed/qlik.md)
+- [Qrvey](detailed/qrvey.md)
 - [QuickSight](detailed/quicksight.md)
 - [Redash](detailed/redash.md)
 - [Sigma](detailed/sigma.md)
@@ -56,8 +60,14 @@ Learn from others' experience and opinions! Below are the
 
 <a name="migration" />
 ## Migration guides
+- [Advice from Chartio](https://chartio.com/docs/migration-guide/)
 - [Cumul.io](https://blog.cumul.io/2021/03/04/migration-guide-how-to-migrate-from-chartio-to-cumul-io/)
 - [Count](https://count.co/blog/posts/how-to-migrate-from-chartio-to-count)
+
+<a name="resources" />
+- [Estimation Template](https://docs.google.com/spreadsheets/d/1GYOG3qIqzyPhbIynE88frDRJPh58reUwQ8L9FheJZ7g/edit#gid=1388054133)
+- [Generic list of BI tools](https://github.com/thenaturalist/awesome-business-intelligence)
+- Live discussion in the [Chartio slack #migration channel](https://chartio.slack.com/archives/C01QEQ5MNEL)
 
 <a name="contributing" />
 ## Contributing
@@ -71,7 +81,7 @@ We will review contributions and approve as long as they follow the guidelines
 - Be nice. No profane or derogatory content
 - Be honest. If you are a vendor touting your own product, make that clear
 
-Fork and edit this repository to edit any content directly, then
+Edit any page and submit a PR--we will review it!
 
 #### Legal Stuff
 
