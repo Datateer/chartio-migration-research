@@ -8,6 +8,12 @@ Superset is already scaling to thousands of users at places like AirBnb and othe
 
 So, I'm excited where this project is going, and it is already very capable. But it is early and the UX has a long way to go.
 
+**Barbara's take** There are 45 charts built in which is very robust. There are also good options for fine tuning presentation. The charts are highcharts but it you want to add a chart it requires following a request and release process. There is no way to add a custom high chart. Dashboards have tabs which I really appreciate. The filters allow you to choose which widget or chart to apply it to. You can fine tune presentation with CSS. CSS is based on their classes so it is possible there is some limitations.
+
+Support is very accessible. There is a chat box which will send an email ticket if no one is around. I received a response fairly quickly. The only problem is when you need to request something like reports and alerts. There is a release schedule that is followed. 
+
+Overall I am impressed and looking forward to seeing where this tool goes. I would like to see more focus on the dashboard side of things but the number of charts available and configuration options makes it a serious contender.
+
 **Everyone: Edit me to add your experiences with this product**
 
 ## The Vendor's pitch
