@@ -41,6 +41,7 @@ Learn from others' experience and opinions! Below are the
 - [Exago](detailed/exago.md)
 - [GoodData](detailed/gooddata.md)
 - [Holistics](detailed/holistics.md)
+- [iZenda](detailed/izenda.md)
 - [Keen](detailed/keen.md)
 - [Logi Analytics](detailed/logi.md)
 - [Looker](detailed/looker.md)
@@ -50,6 +51,7 @@ Learn from others' experience and opinions! Below are the
 - [Panintelligence](detailed/panintelligence.md)
 - [Power BI](detailed/pbi.md)
 - Powerpoint 🤣🤣
+- [Preset](detailed/superset.md)
 - [Qlik](detailed/qlik.md)
 - [Qrvey](detailed/qrvey.md)
 - [QuickSight](detailed/quicksight.md)
